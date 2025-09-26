@@ -1,1 +1,4 @@
-*.qbt linguist-language=Qubitia
+git add .gitattributes
+git commit -m "Fix linguist: mostrar Qubitia en lugar de JavaScript"
+git push
+
