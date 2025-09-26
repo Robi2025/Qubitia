@@ -1,0 +1,6 @@
+// Hello World en Qubitia
+fn main() {
+  qubit q1
+  measure q1
+  print("Hola, Qubitia!")
+}
